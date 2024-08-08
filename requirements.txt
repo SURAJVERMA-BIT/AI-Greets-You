@@ -1,0 +1,7 @@
+
+### 3. `requirements.txt`
+
+List the required Python libraries:
+
+pyttsx3
+requests

@@ -1,6 +1,6 @@
 # AI Assistant
 
-This project is an AI assistant that provides the current time, date, weather, motivational quotes, fun facts, and news headlines. The assistant uses text-to-speech (TTS) to greet the user and deliver the information.
+This project is an AI assistant that provides the current time, date, weather, motivational quotes, fun facts, and news headlines. The assistant uses text-to-speech (TTS) to greet the user and deliver the information. Do select the city and all and follow this file
 
 ## Features
 
